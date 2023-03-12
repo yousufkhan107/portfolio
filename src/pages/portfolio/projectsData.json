@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Studio",
+    "image": "./projectImages/team.png",
+    "technologies": "JS | HTML | CSS | BOOTSTRAP",
+    "deployed": "https://unrivaled-cajeta-afc518.netlify.app/",
+    "bgcolor": "#6c4bf4",
+    "id": "1"
+  }, {
+    "title": "Todo App ",
+    "image": "./projectImages/bike.png",
+    "technologies": "HTML | CSS | React JS",
+    "deployed": "https://soft-granita-e5a640.netlify.app/",
+    "bgcolor": "#f37737",
+    "id": "1"
+  },
+  {
+    "title": "Services Site",
+    "image": "./projectImages/P1.png",
+    "technologies": "React | CSS | Bootstrap | MUI",
+    "deployed": "https://wonderful-vacherin-a7981b.netlify.app/",
+    "bgcolor": "#ffcc33",
+    "id": "2"
+  },
+  
+  
+  {
+  "title": "Socail Site",
+  "image": "./projectImages/quiz.png",
+  "technologies": "JS | HTML | CSS | BOOTSTRAP",
+  "deployed": "https://endearing-bombolone-491dc4.netlify.app/",
+  "bgcolor": "#f85781",
+  "id": "4"
+},
+{
+  "title": "Blog site",
+  "image": "./projectImages/planner.png",
+  "technologies": "Node | MUI | React JS",
+  "deployed": "https://marvelous-cuchufli-93ff2e.netlify.app/",
+  "bgcolor": "#3e67ff",
+  "id": "6"
+},
+ 
+  {
+    "title": "GitHub profile searcher",
+    "image": "./projectImages/weather.png",
+    "technologies": "React Js | Node | HTML | CSS  ",
+    "deployed": "https://cosmic-kataifi-08dee8.netlify.app/",
+    "bgcolor": "#29cbe0",
+    "id": "2"
+  },
+  {
+    "title": "Ecommerce site",
+    "image": "./projectImages/planner.png",
+    "technologies": "Node | MUI | React JS",
+    "deployed": "https://sparkly-nougat-0694a3.netlify.app/",
+    "bgcolor": "#ffcc33",
+    "id": "6"
+  },
+ 
+  {
+    "title": "Educational site",
+    "image": "./projectImages/bike.png",
+    "technologies": "HTML | CSS | Bootstrap",
+    "deployed": "https://university-843f6.web.app/",
+    "bgcolor": "#f37737",
+    "id": "1"
+  }
+  
+
+
+
+ 
+]
